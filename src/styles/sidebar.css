@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.SideBar{
+    background-color: rgb(55, 52, 68);
+    width: 250px;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
